@@ -1,0 +1,27 @@
+Steps:
+
+1. Git
+-> download Git from the website ("git download")
+-> CMD: 
+	git
+	git config --global user.name "Aryayayayaa"
+	git config --global user.email "aryajain1810@gmail.com"
+->VS Code --> Terminal(Git Bash): 
+	git clone <website url under "Code" -> HTTPS url>
+		equivalent to:
+		git clone https://github.com/PhonePe/pulse.git
+	
+
+2. PhonePe Code
+-> install libraries (pip install) which says ModuleNotFoud Error on cmd
+
+
+
+Errors encountered observed on website: (streamlit2_final.py)
+-> Aggregated Analysis: Insurance Analysis
+-> Map Analysis: Map Insurance Analysis
+
+
+Errors encountered observed on website: (streamlit.py)
+-> Aggregated Analysis: Transaction Analysis
+-> Top Charts: 1,10
